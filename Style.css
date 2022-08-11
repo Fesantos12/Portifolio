@@ -6,10 +6,6 @@ body {
 
 /* Header */
 
-header {
-    min-height: 100vh;
-}
-
 .Logo {
     font-size: 24px;
     font-family: 'Great Vibes', cursive;
@@ -18,6 +14,7 @@ header {
 .nav-wrapper {
    background-color: #201F1B;
    border-bottom: 1px solid #A4ABAE;
+   height: 10vh;
 }
 
 .nav-wrapper li a {
@@ -34,12 +31,11 @@ header {
 
 .Container-Banner {
     width: 100%;
-    height: 600px;
-    margin-top: 3%;
-    margin-bottom: 3%;
     display: flex;
     align-items: center;
     justify-content: space-around;
+    min-height: 91.50vh;
+    background-color: black;
     
 }
 
