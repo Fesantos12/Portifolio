@@ -34,8 +34,18 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-around;
-    min-height: 89vh;
+    min-height: 91vh;
+    background-color: black;
+    border-bottom: 1px solid #A4ABAE;
     
+}
+
+.Textos {
+  margin-left: 5%;
+}
+
+.Banner {
+  margin-right: 5%;
 }
 
 .Textos h1 {
