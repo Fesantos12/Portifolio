@@ -34,8 +34,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-around;
-    min-height: 91.50vh;
-    background-color: black;
+    min-height: 90vh;
     
 }
 
