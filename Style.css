@@ -6,6 +6,10 @@ body {
 
 /* Header */
 
+header {
+    min-height: 100vh;
+}
+
 .Logo {
     font-size: 24px;
     font-family: 'Great Vibes', cursive;
@@ -36,6 +40,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-around;
+    
 }
 
 .Textos h1 {
